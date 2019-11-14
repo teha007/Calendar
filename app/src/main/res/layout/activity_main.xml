@@ -25,5 +25,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="헤이헤이"/>
-    
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="헬렐레"/>
+
 </LinearLayout>
