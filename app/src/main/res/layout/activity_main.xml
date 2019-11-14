@@ -29,6 +29,6 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="헬렐레"/>
+        android:text="헬렐레12345"/>
 
 </LinearLayout>
