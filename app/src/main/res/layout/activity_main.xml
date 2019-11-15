@@ -31,4 +31,9 @@
         android:layout_height="wrap_content"
         android:text="헬렐레123456789"/>
 
+     <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="깃 허브 내에서 추가한 내용"/>
+    
 </LinearLayout>
