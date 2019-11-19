@@ -31,4 +31,9 @@
         android:layout_height="wrap_content"
         android:text="헬렐레123456789"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="19년 11월 20일 새롭게 추가"/>
+
 </LinearLayout>
